@@ -144,58 +144,5 @@
       "precioProducto": "1.999.000",
       "descripcion": "Libérate de tu sofá con esta Consola de Nintendo Switch OLED Blanco y juega en casa en el televisor o mientras viajas.Cuenta con una pantalla táctil OLED para formas intuitivas de jugar cuando estás en modo portátil y puedes conectarte a tu WiFi para competir en línea. Además,los controles Joy-Con incluidos se pueden usar juntos para experiencias intensas para un solo jugador,o puedes entregar uno a un amigo para batallas épicas multijugador."
     }
-  ],
-  "usuarios": [
-    {
-      "id": 1,
-      "contraseña": "asdasdasd",
-      "correo": "perros 4mil",
-      "direccion": "<NAME>",
-      "telefono": "+34 987654321",
-      "nombre": "aquiles",
-      "apellido": "caigo"
-    },
-    {
-      "id": 2,
-      "correo": "motomamimotomami",
-      "contraseña": "motomamimotomami"
-    },
-    {
-      "nombre": "Juan Fernando",
-      "apellido": "Quintero Cuadrado",
-      "correo": "jestrella9294@gmail.com",
-      "contraseña": "Goku12556",
-      "telefono": "3182412920",
-      "direccion": "Calle 12 Nro 23 - 93",
-      "contraseaña": "Goku12556",
-      "id": 3
-    },
-    {
-      "id": 4,
-      "nombre": "Juan Esteban",
-      "apellido": "Estrella",
-      "correo": "jes",
-      "contraseña": "asdas",
-      "telefono": "asdasdas",
-      "direccion": "asdasd"
-    },
-    {
-      "id": 5,
-      "nombre": "Juan",
-      "apellido": "Estrella Soto",
-      "correo": "asdas@",
-      "contraseña": "asdasdasd",
-      "telefono": "asdasd",
-      "direccion": "asdasd"
-    },
-    {
-      "id": 6,
-      "nombre": "asdas",
-      "apellido": "asdasd",
-      "correo": "asdasd@asdasd",
-      "contraseña": "asdasd",
-      "telefono": "asdasdasd",
-      "direccion": "asdasdas"
-    }
   ]
 }
